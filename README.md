@@ -28,7 +28,7 @@ Notes App  is a great way to keep track of information for yourself.
  For authorization i used JWT(JsonWebToken) .
 
 
-#### Demo :
+#### Demo
 ![](https://github.com/Ramy99-dev/Notes-App/blob/main/20211113_232430%20(2).gif)
 
 
