@@ -29,7 +29,7 @@ Notes App  is a great way to keep track of information for yourself.
 
 
 #### Demo :
-![](https://github.com/Ramy99-dev/MEAN-TodoApp/blob/main/20210712-185351.gif)
+![](https://github.com/Ramy99-dev/Notes-App/blob/main/20211113_232430%20(2).gif)
 
 
 
