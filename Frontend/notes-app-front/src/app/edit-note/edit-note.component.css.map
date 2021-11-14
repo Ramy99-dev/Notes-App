@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAA;EACV,KAAK,EAAC,IAAI;CACb;;AACD,AAAA,UAAU,CAAA;EAET,UAAU,EAAG,MAAM;EACnB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,IAAI;CAEX",
+    "sources": [
+        "edit-note.component.scss"
+    ],
+    "names": [],
+    "file": "edit-note.component.css"
+}

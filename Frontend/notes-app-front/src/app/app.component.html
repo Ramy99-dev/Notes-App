@@ -1,0 +1,43 @@
+<div class="container">
+	<h2 class="title">Notes App</h2>
+
+	<div class="content">
+		<div class="display">
+			<!-- <div class="logo">
+				<img src="../assets/ngx-editor.svg" />
+				<div class="subtitle">Rich Text Editor for angular using ProseMirror</div>
+			</div> -->
+		</div>
+
+		<form [formGroup]="form" (ngSubmit)="add()">
+			<div class="editor">
+				<ngx-editor-menu class="text-edit-menu" [editor]="editor" [toolbar]="toolbar">
+				</ngx-editor-menu>
+				<ngx-editor [editor]="editor" [(ngModel)]="content" formControlName="editorContent">
+				</ngx-editor>
+			</div>
+			<div class="btn-container">
+			    <input  class="btn" type="submit" value="Create">
+		    </div>
+		</form>
+
+		<!-- <div class="editor">
+      <ngx-editor [editor]="editor" [(ngModel)]="editordoc">
+      </ngx-editor>
+    </div> -->
+	</div>
+	<div cdkDropList class="example-list" (cdkDropListDropped)="drop($event)">
+		<div class="example-box" *ngFor="let note of notes ; let i = index " cdkDrag  >
+			<div bind-innerHTML="note.content | safeHtml ">
+
+			</div>
+             <div class="btn-container">
+				<button class="btn delete" (click)="delete(i , note._id)">Delete</button>
+				<button class="btn edit" (click)="openEdit(note)" >Edit</button>
+			 </div>
+			
+			
+		
+		</div>
+	  </div>
+</div>

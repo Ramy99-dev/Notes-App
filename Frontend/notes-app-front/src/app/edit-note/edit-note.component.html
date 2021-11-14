@@ -1,0 +1,13 @@
+<div class="container">
+    <form [formGroup]="form" (ngSubmit)="edit()">
+        <div class="editor">
+            <ngx-editor-menu class="text-edit-menu" [editor]="editor" [toolbar]="toolbar">
+            </ngx-editor-menu>
+            <ngx-editor class="editor-text" [editor]="editor" formControlName="editorContent">
+            </ngx-editor>
+        </div>
+        <div class="btn-container">
+            <input class="btn" type="submit" value="Edit">
+        </div>
+    </form>
+</div>
