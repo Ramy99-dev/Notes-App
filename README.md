@@ -21,7 +21,7 @@ Notes App  is a great way to keep track of information for yourself.
  <img align="left" alt="Angular Material" width="40px" src="https://cdn.jsdelivr.net/gh/angular-material-extensions/pages@master/assets/angular-material-extensions-logo.png" />
 <br/><br/>
 - Back End : 
-- <br/>
- <img align="left" alt="NestJs" width="50px" src="https://iconape.com/wp-content/files/ed/351308/svg/nestjs-seeklogo.com.svg" />
+
+<img align="left" alt="NestJs" width="50px" src="https://iconape.com/wp-content/files/ed/351308/svg/nestjs-seeklogo.com.svg" />
 <img align="left" alt="MongoDB" width="50px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png"/>
 <img align="left" alt="expressJs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /><br/>
