@@ -7,7 +7,7 @@
 
 
 - [Description](#description)
-- [Demo](#how-to-use)
+- [Demo](#demo)
 ---
 
 ## Description
