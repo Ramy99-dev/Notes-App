@@ -26,7 +26,7 @@ Notes App  is a great way to keep track of information for yourself.
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="expressJs" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /><br/>
 
-
+</br>
 
 #### Demo
 ![](https://github.com/Ramy99-dev/Notes-App/blob/main/20211113_232430%20(2).gif)
